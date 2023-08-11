@@ -1,4 +1,4 @@
-
+//my first c# program without look i tooka help from chargbt but i did it my self bruhh
 using System;
 
 public class Wizard
