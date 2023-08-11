@@ -1,4 +1,6 @@
 //My first c# program without looking i tooka help from chargbt but i did it my self bruhh
+//Rudy was walking and he found a beast infront of him about t o atk him 
+//let the battle begain
 
 using System;
 
